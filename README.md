@@ -11,6 +11,7 @@ problem.
 
 Supported tags:
 
+* `python3.9-gdal3.1.2`
 * `python3.8-gdal3.1.2`
 * `python3.8-gdal3.0.4`
 * `python3.7-gdal3.1.2`
